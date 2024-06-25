@@ -1,0 +1,7 @@
+file/*
+!file/tb.v
+!file/top.v
+!file/add.v
+!file/mult.v
+!file/file.list
+!file/Makefile
